@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Original line
+=======
+Feature line
+>>>>>>> feature
